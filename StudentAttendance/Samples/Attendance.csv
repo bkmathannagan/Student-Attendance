@@ -1,0 +1,9 @@
+AttendanceID,StudentID,AttDate,Status,Remarks
+1,1,2025-12-10,Present,
+2,2,2025-12-10,Absent,Sick
+3,3,2025-12-10,Present,
+4,4,2025-12-10,Late,Traffic
+5,5,2025-12-10,Present,
+6,1,2025-12-11,Absent,Sick
+7,2,2025-12-11,Present,
+8,3,2025-12-11,Present,

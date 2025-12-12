@@ -1,0 +1,6 @@
+StudentID,RegNo,FirstName,LastName,DOB,Class,Section,Gender,PhotoPath
+1,REG001,John,Doe,2008-05-12,7, A,Male,
+2,REG002,Jane,Smith,2009-08-03,7, A,Female,
+3,REG003,Ali,Khan,2008-11-20,7, B,Male,
+4,REG004,Maria,Gonzalez,2009-01-15,6, A,Female,
+5,REG005,Chen,Li,2008-03-02,7, B,Male,
